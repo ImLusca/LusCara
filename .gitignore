@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+cpp/build/
+cpp/obj/
+
+# IDE / editor
+.vscode/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+LuscaUtils/threshold/
+
+# Data / models
+models/
+LuscaUtils/datasets/
+
+# Vendored binaries (kept out of git by default)
+third_party/
